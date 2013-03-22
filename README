@@ -1,5 +1,5 @@
 ## diffbyline.vim ##
 
 This is an extension for vim to enable diff line by line.
-All credites to the author Andy Wokula <anwoku@yahoo.de>.
+All credits go to the author Andy Wokula <anwoku@yahoo.de>.
 I create this repo just to make it easier to install for vundle users.
